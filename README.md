@@ -2,7 +2,7 @@
 In this project, we need to add css file that completes all the todos in HTML
 
 ## Problem Statement
-<!-- 
+
 TODOs
 IMPORTANT: You should not need to make ANY CHANGES to index.html
 All code should be written in your CSS file.
@@ -13,9 +13,9 @@ Hint: Use the id to help if you don't know the words in spanish.
 3. Use CSS to change all the color titles to have "font-weight: normal;"
 4. Use CSS (not HTML) to make all the images 200px heigh and 200px wide. 
 Hint: 
-https://developer.mozilla.org/en-US/docs/Web/CSS/height
-https://developer.mozilla.org/en-US/docs/Web/CSS/width
--->
+[height](https://developer.mozilla.org/en-US/docs/Web/CSS/height)
+[width](https://developer.mozilla.org/en-US/docs/Web/CSS/width)
+
 
 ### Output before CSS
 ![HTML Output without CSS](Color+Vocab+Project-problem-statement.JPG)
