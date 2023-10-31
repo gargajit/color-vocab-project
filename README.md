@@ -19,3 +19,6 @@ Hint:
 
 ### Output before CSS
 ![HTML Output without CSS](Color+Vocab+Project-problem-statement.JPG)
+
+### Final Output
+![HTML Rendered with CSS](Color+Vocab+Project-final-output.JPG)
